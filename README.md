@@ -1,5 +1,5 @@
-# NAME: JANANI V
-# REG NO: 212223060099
+# NAME: TEJASHREE J
+# REG NO: 212223060285
 # Interfacing-of-LED-with-PWM-LPC1768-ARM-Processor
 
 **AIM:**
